@@ -1,3 +1,0 @@
-python-telegram-bot[job-queue]==20.7
-mercadopago==2.1.0
-supabase==2.3.4
